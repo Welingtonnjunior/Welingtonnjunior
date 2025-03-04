@@ -3,4 +3,4 @@ Sou estudando de Ciência da computação.
 
 tecnologias que utilizo:
 
-HTML, CSS, JAVASCRIPT, BOOSTRAP, REACT.
+HTML, CSS, JAVASCRIPT, REACT.
